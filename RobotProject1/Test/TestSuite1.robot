@@ -11,6 +11,8 @@ Test Teardown    Log    I am inside Test teardown
 MyFirstTest
     Log    Hello World...
     
+MySecondTest
+    Log    Hello World war 2...
     
 FirstSeleniumTest
     Open Browser    https://google.com    chrome
